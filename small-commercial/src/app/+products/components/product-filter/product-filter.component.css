@@ -1,0 +1,8 @@
+.filter-list {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.filter-activated {
+  border: 3px red solid;
+}
